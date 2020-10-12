@@ -4,7 +4,7 @@
 Create a team profile generator using Javascript, OOP, Node.js, inquirer & jest.
 
 # Mockup Image
-![team profile generator demo](Develop/assets/images/MyTeamGeneratorOutput.png)
+![team profile generator demo](./Develop/assets/images/MyTeamGeneratorOutput.png)
 
 # Description
 This app allows users to input employee info for their team including: Manager, Engineer, and Intern
@@ -20,7 +20,8 @@ The following necessary dependencies must be installed to run the application pr
 # Usage
 In order to use this app, install the dependencies and run the app in the terminal on VS Code. Click on the video for a demonstration. 
 # Demo
-* [Demo-Video](https://drive.google.com/file/d/18x84c2byFxjVtmEdKk2d_NscABWTit71/view)
+[![Demo-Video](Develop/assets/images/DemoVideo.png)](https://drive.google.com/file/d/18x84c2byFxjVtmEdKk2d_NscABWTit71/view)
+
 # License
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 # Contributing
